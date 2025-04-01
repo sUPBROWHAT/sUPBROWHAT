@@ -1,4 +1,4 @@
-hi im kyraw
+hi im kyraw/vix
 i code for fun
 
 crystal owner
